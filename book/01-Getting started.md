@@ -28,11 +28,15 @@ Install the `readcodebooks` GitHub App on your repository and choose **Only sele
 
 ![](https://i.imgur.com/uAChbtt.png)
 
+Then log into [https://codebook.page](https://codebook.page) with your GitHub account. The permissions only let CodeBook read your username and email address:
+
+![](https://i.imgur.com/0zccDZg.png)
+
 Now you should see your CodeBook in the list: [https://codebook.page/books](https://codebook.page/books)
 
 ![](https://i.imgur.com/9AqJ3yF.png)
 
-Click to read it!
+Clicking on it will open the book for reading.
 
 ## Chapters
 
@@ -44,6 +48,8 @@ You can add chapters that show up in the sidebar:
    info.json
    README.md
 ```
+
+![](https://i.imgur.com/YdaNSi0.png)
 
 ## Embedding commits
 
@@ -58,3 +64,5 @@ To **embed a commit**, create a code fence with the tag `commit` and type the ex
 CodeBook will automatically fetch the commit from the git history, compute diffs, and embed them directly into the page.
 
 You can also click **View full code** to open a readonly Monaco editor at that point!
+
+![](https://i.imgur.com/Xy9kdCS.png)
