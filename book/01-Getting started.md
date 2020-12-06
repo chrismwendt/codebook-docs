@@ -38,6 +38,10 @@ Now you should see your CodeBook in the list: [https://codebook.page/books](http
 
 Clicking on it will open the book for reading.
 
+## Making changes
+
+Edit a file, `git commit`, `git push`, and your changes will show up automatically 🎉 You don't even need to refresh your browser!
+
 ## Chapters
 
 You can add chapters that show up in the sidebar:
